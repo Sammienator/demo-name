@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        My app has been deployed here
+        My app has been deployed here and now i want to deploy 
       </header>
     </div>
   );
